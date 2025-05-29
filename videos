@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>DevSimplifica - Vídeo</title>
+</head>
+<body>
+
+  <h1>Assista ao vídeo</h1>
+
+  <video width="720" height="480" controls autoplay muted>
+    <source src="assets/video1.mp4" type="video/mp4">
+    Seu navegador não suporta a tag de vídeo.
+  </video>
+
+</body>
+</html>
